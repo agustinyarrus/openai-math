@@ -1,3 +1,13 @@
+# OpenAI Math: Academic Archive & Verification Mirror
+
+> [!NOTE]
+> **Academic Preservation & Verification Notice / Aviso de Preservación Académica**  
+> This mirror is curated for **academic research, reproducibility, and independent mathematical verification**. It preserves all 749+ manuscripts, Lean 4 formal artifacts, and reasoning traces without discarding unverified attempts or withdrawn papers.  
+> 🔍 *See [ACADEMIC_ARCHIVE.md](ACADEMIC_ARCHIVE.md) for full scientific rationale.*  
+> 📁 *The 3 original withdrawn papers with full LaTeX sources are archived in [`withdrawn_manuscripts_restored/`](withdrawn_manuscripts_restored/).*
+
+---
+
 # Readme
 
 This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model. 
