@@ -1,3 +1,5 @@
+<p align="right"><sub><b>English</b> · <a href="README.es.md">Español</a></sub></p>
+
 # OpenAI Math: Academic Archive & Verification Mirror
 
 > [!NOTE]

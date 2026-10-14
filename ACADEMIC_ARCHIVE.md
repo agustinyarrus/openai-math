@@ -1,3 +1,5 @@
+<p align="right"><sub><b>English</b> · <a href="ACADEMIC_ARCHIVE.es.md">Español</a></sub></p>
+
 # Academic Archive & Independent Verification Initiative
 
 > **Statement of Academic Purpose / Declaración de Propósito Académico**
