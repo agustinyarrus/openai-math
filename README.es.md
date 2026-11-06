@@ -62,4 +62,4 @@ Vamos a preservar el historial público de publicaciones de esta colección. Las
 
 Para citar un manuscrito en particular, se usa el bloque BibTeX de su directorio.
 
-<!-- i18n source=README.md sha256=f610ea66ce94 -->
+<!-- i18n source=README.md sha256=ceb7952a4745 -->
